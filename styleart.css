@@ -1,0 +1,303 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(226, 176, 111);
+    background-size: cover;
+}
+.ti{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: rgb(247, 231, 11);
+    margin-top: 50px;
+}
+.conoce1{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce1 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag1{
+    width: 48%;
+}
+.cont1 .texto{
+    width: 48%;
+}
+
+
+.conoce2{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce2 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont2{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag2{
+    width: 48%;
+    height: 250px;
+}
+.cont2 .texto{
+    width: 48%;
+}
+
+
+.conoce3{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce3 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont3{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag3{
+    width: 48%;
+    height: 320px;
+}
+.cont3 .texto{
+    width: 48%;
+}
+
+
+
+.conoce4{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce4 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont4{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag4{
+    width: 48%;
+    height: 320px;
+}
+.cont4 .texto{
+    width: 48%;
+}
+
+
+.conoce5{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce5 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont5{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag5{
+    width: 48%;
+    height: 320px;
+}
+.cont5 .texto{
+    width: 48%;
+}
+
+
+
+.conoce6{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce6 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont6{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag6{
+    width: 48%;
+    height: 320px;
+}
+.cont6 .texto{
+    width: 48%;
+}
+
+
+.conoce7{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce7 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont7{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag7{
+    width: 48%;
+    height: 320px;
+}
+.cont7 .texto{
+    width: 48%;
+}
+
+
+
+.conoce8{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce8 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont8{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag8{
+    width: 48%;
+    height: 320px;
+}
+.cont8 .texto{
+    width: 48%;
+}
+
+
+.conoce9{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce9 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont9{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag9{
+    width: 48%;
+    height: 320px;
+}
+.cont9 .texto{
+    width: 48%;
+}
+
+.conoce10{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce10 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont10{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag10{
+    width: 48%;
+    height: 320px;
+}
+.cont10 .texto{
+    width: 48%;
+}

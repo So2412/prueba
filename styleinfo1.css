@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: white;
+    background-size: cover;
+}
+.ti{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: rgb(247, 231, 11);
+    margin-top: 50px;
+}
+.conoce{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag1{
+    width: 48%;
+}
+.cont1 .texto{
+    width: 48%;
+}
+
+
+.conoce1{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce1 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont2{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag{
+    width: 48%;
+    height: 400px;
+}
+.cont2 .texto{
+    width: 48%;
+}
+
+
+.conoce2{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce2 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont3{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag2{
+    width: 48%;
+    height: 320px;
+}
+.cont3 .texto{
+    width: 48%;
+}
+
+
+
+.conoce3{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+}
+.conoce3 .titulo{
+    color: orange;
+    text-align:left;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size:40px;
+}
+.cont4{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+.imag3{
+    width: 48%;
+    height: 620px;
+}
+.cont4 .texto{
+    width: 48%;
+}
